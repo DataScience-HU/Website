@@ -27,8 +27,10 @@ Very interesting questions arise for this project:
 - How to use and present data from shared mobility hubs, in order to provide better decision support?
 - How to measure impact from the social, economic and environmental point of view?
 
-The Data Science Pool (DSP) team, provides support in different areas: data sourcing (what data?), data combination, data presentation and monitoring (dashboard), metrics development, etc. 
+The Data Science Pool (DSP) team, provides support in different areas: data sourcing (what data?), data combination, data presentation and monitoring (dashboard), metrics development, etc.
 
+We created a cool demo to "pitch" an idea for a dashboard, enjoy!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SmA-44_ZRXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
