@@ -1,0 +1,82 @@
+title: HU Data Science Pool
+description: Playbook to guide Data Science questions from the HU community.
+logo: "/assets/hu-logo.svg"
+
+# Aux links for the upper right navigation
+aux_links:
+  "Pas dit playbook aan op GitHub":
+    - "//github.com/DataSciencePool-HU/Website"
+
+# Footer content 
+# appears at the bottom of every page's main content
+footer_content: "CC BY-NC 4.0 Hogeschool Utrecht."
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/DataSciencePool-HU/Website"
+gh_edit_branch: "master"
+gh_edit_view_mode: "tree"
+
+
+# Build settings
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+
+# Define Jekyll collections
+collections:
+  # Define a collection named "docs", its documents reside in the "_docs" directory
+  docs:
+    permalink: "/docs/:path/"
+    output: true
+    
+# Under docs/:    
+  Team:
+    permalink: "/docs/Team/:path/"
+    output: true    
+
+  Projects:
+    permalink: "/docs/Projects/:path/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "docs" collection
+    docs:
+      # Give the collection a name
+      name: Documentation
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+#    People:  
+#      # Give the collection a name
+#      name: People
+#      # Exclude the collection from the navigation
+#      # Supports true or false (default)
+#      nav_exclude: false
+#      # Exclude the collection from the search
+#      # Supports true or false (default)
+#      search_exclude: false              
+#    Projects:  
+#      # Give the collection a name
+#      name: Projects
+#      # Exclude the collection from the navigation
+#      # Supports true or false (default)
+#      nav_exclude: false
+#      # Exclude the collection from the search
+#      # Supports true or false (default)
+#      search_exclude: false        
+      
+      
+      
+      
+      
+      
+      
+      
+
