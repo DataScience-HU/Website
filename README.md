@@ -1,6 +1,6 @@
 # HU Data Science Pool
 
-Visit the website [here](https://DataSciencePool-HU.github.io/Website/)
+Visit the website [here](https://DataScience-HU.github.io/Website/)
 
 ## Run site locally
 
