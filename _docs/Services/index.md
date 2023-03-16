@@ -11,7 +11,7 @@ We strive to support the *HU community* in a broad sense, this means we are avai
 
 As a starting point, we propose the following scheme in order to consitently receive and process any requests for support:
 
-![](images/request.png){:height="469" width="1042"}
+![](images/requestv2.png){:height="472" width="1065"}
 
 We follow this scheme, so that everyone gets the same attention in our HU community; we are open to hear from you, do not hesitate to contact us, even if you think your question or project does not fully fit in our scheme, there is always space to discuss and improve!
 
